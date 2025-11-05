@@ -266,7 +266,7 @@ The `MultiDBRouter` class routes each model to its specific database:
 - **Product ID**: Required, must be a positive integer
 - **Quantity**: Required, must be greater than 0
 
-All validations are performed at the **application level** without database constraints.
+All validations are performed at the **application level** without database constraints
 
 ## 🗄️ Database Architecture
 
