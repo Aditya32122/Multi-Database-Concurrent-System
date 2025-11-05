@@ -334,17 +334,6 @@ python manage.py migrate --database=products_db
 python manage.py migrate --database=orders_db
 ```
 
-### Issue: "Command not found"
-**Solution**: Ensure the management command file structure is correct and all `__init__.py` files exist.
-
-## 📄 License
-
-This project is created for educational purposes as part of a Django DRF assignment.
-
-## 👥 Author
-
-Created as a demonstration of Django multi-database architecture and concurrent programming with threads.
-
 ---
 
 **Assignment Completed**: ✅
