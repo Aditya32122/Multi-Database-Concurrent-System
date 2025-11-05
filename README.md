@@ -1,4 +1,4 @@
-# Django DRF Multi-Database Concurrent Insertion System
+# DRF Multi-Database Concurrent Insertion System
 
 A Django REST Framework application that simulates a distributed system with multiple SQLite databases and demonstrates concurrent data insertion using Python threads.
 
